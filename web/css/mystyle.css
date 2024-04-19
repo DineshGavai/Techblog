@@ -1,0 +1,30 @@
+*
+{
+    /*border:1px solid red;*/
+}
+
+
+.primary-background{
+    background:#3d5afe!important;
+    /*margin-bo ttom:2rem!important;*/
+}
+p{
+    font-size: 14px!important;
+}
+.cf{
+    margin-bottom: 2rem!important;
+    padding-bottom:2rem!important;
+
+}
+input[type="checkbox"]{
+     border: 1px solid #333; 
+}
+
+#posts{
+    height: 12rem;
+    object-fit: cover;
+}
+.post-content{
+    font-weight: 100;
+    font-size: 30px !important;
+}
